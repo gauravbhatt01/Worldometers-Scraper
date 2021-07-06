@@ -1,15 +1,11 @@
 # Worldometers Scraper
 
-<details>
-  <summary><i>Usage</i></summary>
+**Scraper Usage**
 
----
-Crawling the Webpage
-scrapy crawl countries   
-  
-Building the Datasets
-scrapy crawl countries -o countries.json
+- scrapy crawl countries   
+- scrapy crawl countries -o countries_dataset.json
 
----
 
-</details>
+ 
+
+
